@@ -13,11 +13,19 @@
 
 ## 我的网站
 
-- **My Blog**: [https://blog.mczheengyi.top](https://blog.mczhengyi.top)
+- **引导页**: [https://www.mczhengyi.top](https://ww.mczhengyi.top)
+- **博客**: [https://blog.mczheengyi.top](https://blog.mczhengyi.top)
+- **Gitea仓库**: [https://git.mczhengyi.top](https://git.mczhengyi.top)
+
+# 关于Gitea仓库
+
+GitHub平台的仓库全部都是为大众设计的，会考虑所有使用者的需求。
+而我有一个私有的Gitea仓库，这个仓库里存放着我以前做过的一些小项目，但这些项目基本都是为我自己而服务的，可能不适合所有人；
+如果你觉得有需求，可以在[这里](https://github.com/justice2001/justice2001/issues)提出，如果可以我会把他改造的比较适合大众使用，并同步到GitHub。
 
 ## 国内访问
 
-大多数项目我都是在私有的gitlab上进行处理的，所以这些项目都会同时镜像到gitee平台。（处理中...）
+大多数项目我都是在私有的gitea上进行处理的，所以这些项目都会同时镜像到gitee平台。项目的规划和动态都会在gitea平台上发出。
 
 <!--
 **justice2001/justice2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
