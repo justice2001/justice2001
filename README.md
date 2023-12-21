@@ -3,6 +3,7 @@
 ## 我的项目
 
 - [halo-plugin-vditor 适用于Halo的Vditor编辑器](https://github.com/justice2001/halo-plugin-vditor)
+- [luci-app-multi-frpc 支持多个Frp服务端的Openwrt frp客户端插件](https://github.com/justice2001/luci-app-multi-frpc)
 
 ## 接下来做什么
 
