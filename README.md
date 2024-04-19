@@ -28,6 +28,12 @@ GitHub平台的仓库全部都是为大众设计的，会考虑所有使用者�
 
 大多数项目我都是在私有的gitea上进行处理的，所以这些项目都会同时镜像到gitee平台。项目的规划和动态都会在gitea平台上发出。
 
+## For Jetbrains Verify
+
+**Email:** a2507452458@hotmail.com
+
+**Request ID:** 15042024/14212526
+
 <!--
 **justice2001/justice2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
